@@ -1,0 +1,23 @@
+# R-204397 RHEL-07-010061 B
+# R-204432 RHEL-07-010440 N/A
+# R-204433 RHEL-07-010450 N/A
+# R-204435 RHEL-07-010470 DNGR
+# R-204445 RHEL-07-020030 AIDE?
+# R-204446 RHEL-07-020040 AIDE?
+# R-204509 RHEL-07-030300 B
+# R-204510 RHEL-07-030310 B
+# R-204511 RHEL-07-030320 B
+# R-204590 RHEL-07-040350 D
+# R-204592 RHEL-07-040370 DDDDD
+# R-204604 RHEL-07-040520
+RHEL-07-020260
+currently on 021710
+open main tasks and manual xccdf from site
+
+IGNORE BELOW!
+
+Using /root/.ansible/roles/rhel7-stig/ansible.cfg as config file
+ansible-playbook -v -b -i ./inventory site.yml
+invetory written [remote] and ip under,
+
+config key pair

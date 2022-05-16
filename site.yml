@@ -1,0 +1,6 @@
+- hosts: remote
+  gather_facts: no
+  ignore_errors: yes
+  roles:
+    - rhel7-stig
+
