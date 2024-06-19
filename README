@@ -1,3 +1,5 @@
 Using CentOS 7 VM, ensure you have internet connection and certificates needed to be able to pull required packages and software from respective location
 Create a script and paste the contents of ansible_install.sh into it. If any errors are encountered after running, these will display. On their own they are relatively simple to correct.
 If the ping test is successful, ansible is ready to go. 
+
+Files that begin with old_ are from a project long ago to use ansible to automate STIGs as part of my job. They serve as only a reference and should not be used unless needed. the "old" branch is content from that project. 
