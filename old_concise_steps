@@ -1,7 +1,0 @@
-1. Ensure pip/python is installed w/ yum
-2. Install ansible 
-3. Get the role, from DOD STIG
-4. Modify defaults
-5. WINSCP to server, update inventory 192.168.0.195 
-6. i did config the ansible.cfg to include key and hosts files! now ansible-playbook do this by default
-6a. missing any modules, ansible-galaxy collection install community.general is how i got pamd
